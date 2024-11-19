@@ -25,7 +25,7 @@ Repository for links to "Green Tech Hackathon 2024" projects
 ### Local Hub Dublin 
 
 ```
- HEANET: Local Hub in Dublin, Ireland at Trinity College 
+ HEANET: Local Hub in Dublin
  Address is : 93/94 North Wall Quay, Dublin D01 V8Y6, Ireland
  Telephone:  +353-1-660 90 40
  guides on how to find us : https://www.heanet.ie/who-we-are/contact-heanet
