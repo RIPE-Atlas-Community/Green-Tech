@@ -32,4 +32,15 @@ Repository for links to "Green Tech Hackathon 2024" projects
  local contact: andy.byrne@heanet.ie
 ```
 
+## Intro Webinar 
+
+On 3rd December 2024, 9AM CET - 10:30 CET, there will be a Zoom event for all registered participants, & guests: for Inspiration & Introduction: 
+
+1. "Welcome to Our Hackathon! Gratitude & introduction to today's programme"  Vesna Manojlovic: 
+2. “Making digital sustainability sustainable”, by Hannah Smith 
+3. “>Juice Sucking Servers< , and how you can make them more efficient", by Axel Roest
+4. "Green Tech Digital Innovation Competition accompanying research", by Dr. Stefanie Kunkel (To Be Confirmed) 
+5. "Logistics & Practical Information for the hackathon particpants", by Vesna Manojlovic
+6. Open Discussion, Q&A 
+
 ## Your Links
