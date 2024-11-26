@@ -43,4 +43,10 @@ On 3rd December 2024, 9AM CET - 10:30 CET, there will be a Zoom event for all re
 5. "Logistics & Practical Information for the hackathon particpants", by Vesna Manojlovic
 6. Open Discussion, Q&A 
 
+# Communication
+
+* Chat -> https://matrix.to/#/#green-tech-hackathon-2024:matrix.org
+* Video -> Zoom (links in the calendar invite)
+* File sharing -> this page :) 
+
 ## Your Links
