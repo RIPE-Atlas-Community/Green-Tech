@@ -42,7 +42,9 @@ On 3rd December 2024, 9AM CET - 10:30 CET, there will be a Zoom event for all re
 3. “>Juice Sucking Servers< , and how you can make them more efficient", by Axel Roest
 4. "Green Tech Digital Innovation Competition accompanying research", by Dr. Stefanie Kunkel (To Be Confirmed) 
 5. "Logistics & Practical Information for the hackathon particpants", by Vesna Manojlovic
-6. Open Discussion, Q&A 
+6. Open Discussion, Q&A
+
+Slides with the [Introduction To... Green Tech Hackathon 2024](https://wiki.techinc.nl/File:Intro-to-green-tech-hackathon-xxs.pdf).
 
 # Communication
 
