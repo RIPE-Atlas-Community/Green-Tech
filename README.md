@@ -20,7 +20,10 @@ Repository for links to "Green Tech Hackathon 2024" projects
 * Useful information for Local Hubs organisers
   * "How to Organise a Hackathon" -> https://wiki.techinc.nl/File:How_to_organise_a_hackathon-January2018.pdf
   * RIPE Labs areticle about Local Hubs -> https://labs.ripe.net/author/becha/local-hubs-for-events-diversity-sustainability-and-decentralisation/
-
+* NEW (3rd December)
+ * [ALL projects and intro hackathon 2-dec.pdf](https://github.com/user-attachments/files/17992433/ALL.projects.and.intro.hackathon.2-dec.pdf)
+ * [2-dec-hackathon-sorted-per-location.pdf](https://github.com/user-attachments/files/17992437/2-dec-hackathon-sorted-per-location.pdf)
+  
 ## Local Hubs
 
 ### Local Hub Dublin 
@@ -37,19 +40,22 @@ Repository for links to "Green Tech Hackathon 2024" projects
 
 On 3rd December 2024, 9AM CET - 10:30 CET, there will be a Zoom event for all registered participants, & guests: for Inspiration & Introduction: 
 
-1. "Welcome to Our Hackathon! Gratitude & introduction to today's programme"  Vesna Manojlovic: 
-2. “Making digital sustainability sustainable”, by Hannah Smith 
+1. "Welcome to Our Hackathon! Gratitude & introduction to today's programme"  Vesna Manojlovic
+2. “Making digital sustainability sustainable”, by Hannah Smith
+   + slides [Start at the end RIPE hackathon-2.pdf](https://github.com/user-attachments/files/17992375/Start.at.the.end.RIPE.hackathon-2.pdf)
 3. “>Juice Sucking Servers< , and how you can make them more efficient", by Axel Roest
-4. "Green Tech Digital Innovation Competition accompanying research", by Dr. Stefanie Kunkel (To Be Confirmed) 
-5. "Logistics & Practical Information for the hackathon particpants", by Vesna Manojlovic
+    + slides [Juice Sucking Servers RipeNCC.pdf](https://github.com/user-attachments/files/17992330/Juice.Sucking.Servers.RipeNCC.pdf)
+4. "Green Tech Digital Innovation Competition accompanying research", by Dr. Stefanie Kunkel 
+5. "Logistics & Practical Information for the hackathon particpants", by Vesna Manojlovic + Slides [Introduction To... Green Tech Hackathon 2024](https://wiki.techinc.nl/File:Intro-to-green-tech-hackathon-xxs.pdf).
 6. Open Discussion, Q&A
 
-Slides with the [Introduction To... Green Tech Hackathon 2024](https://wiki.techinc.nl/File:Intro-to-green-tech-hackathon-xxs.pdf).
 
 # Communication
 
 * Chat -> https://matrix.to/#/#green-tech-hackathon-2024:matrix.org
 * Video -> Zoom (links in the calendar invite)
-* File sharing -> this page :) 
+* File sharing -> this page :)
+* Collective Notes Taking = This Etherpad: https://etherpad.servus.at/p/GreenTechHackathonDecember2024-keep 
 
 ## Your Links
+
