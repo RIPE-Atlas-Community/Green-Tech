@@ -59,3 +59,5 @@ On 3rd December 2024, 9AM CET - 10:30 CET, there will be a Zoom event for all re
 
 ## Your Links
 
+* https://github.com/w3c/sustainableweb-ig/tree/main
+* 
