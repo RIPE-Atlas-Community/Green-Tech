@@ -53,6 +53,8 @@ On 3rd December 2024, 9AM CET - 10:30 CET, there will be a Zoom event for all re
 
 Link to recording:  (Passcode: dt&%4Rr6 ) https://ripe.zoom.us/rec/share/RVBTYnIo624qDeDf-y60BJkFfA9Zi6c7AEwUZhPG7EDz7meKvFO8cBGmbgFQ0Dmo.APCfWdJws-3cQsB_ 
 
+Very short Notes from the webinar + links + screenshots [webinar-summary-landscape-green-tech-hackathon-xs.pdf](https://github.com/user-attachments/files/18039757/webinar-summary-landscape-green-tech-hackathon-xs.pdf)
+
 
 # Communication
 
