@@ -50,6 +50,8 @@ On 3rd December 2024, 9AM CET - 10:30 CET, there will be a Zoom event for all re
    + slides [Introduction To... Green Tech Hackathon 2024](https://wiki.techinc.nl/File:Intro-to-green-tech-hackathon-xxs.pdf).
 6. Open Discussion, Q&A
 
+Link to recording:  (Passcode: dt&%4Rr6 ) https://ripe.zoom.us/rec/share/RVBTYnIo624qDeDf-y60BJkFfA9Zi6c7AEwUZhPG7EDz7meKvFO8cBGmbgFQ0Dmo.APCfWdJws-3cQsB_ 
+
 
 # Communication
 
