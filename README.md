@@ -4,12 +4,13 @@ Repository for links to "Green Tech Hackathon 2024" projects
 
 ## Promotion
 
-* Initial article, announcing the hackathon + application form https://labs.ripe.net/author/becha/announcing-the-green-tech-hackathon/
+* Initial article, announcing the hackathon + application form 2024-08-26 https://labs.ripe.net/author/becha/announcing-the-green-tech-hackathon/
 * Registration form for the borrel (closing swow & social event) https://www.ripe.net/participate/forms/apply/borrel-green-tech-2024/
 * Annoucement made by Vesna at RIPE89 (PDF slides, presentation) [slides](xs-new-pdf-announcing-Green%20Tech-hackathon.pdf)
 * [Sticker!](https://github.com/RIPE-Atlas-Community/Green-Tech/blob/main/green%20tech%20hackathon%20sticker%20print.png)
 * [Logo, white](https://github.com/RIPE-Atlas-Community/Green-Tech/blob/main/Design_Hackathon_2024_white.png)
 * [Logo, green](https://github.com/RIPE-Atlas-Community/Green-Tech/blob/main/Design_Hackathon_202401.jpg)
+* "Update" article: "approaching the hackathon" 2024-11-14 https://labs.ripe.net/author/becha/approaching-the-green-tech-hackathon/ 
 
 ## Supporting Documents
 
