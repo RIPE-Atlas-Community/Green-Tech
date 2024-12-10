@@ -17,6 +17,7 @@ Repository for links to "Green Tech Hackathon 2024" projects
 * Logistics / Introduction to Hackathons  [slides](https://github.com/RIPE-Atlas-Community/Green-Tech/blob/main/pdf-generic-intro-to-hackathons.pdf) (PDF slides, presentation)
 * Information about participants: till 24th November https://github.com/RIPE-Atlas-Community/Green-Tech/blob/main/hackathon-participants-till-24-nov-24-to_share.pdf 
 * [Keynote template for the project presentation slides](hackathon-results-slides-template.key)
+ * PDF -ii- [pdf-hackathon-results-slides-template.key.pdf](https://github.com/user-attachments/files/18078374/pdf-hackathon-results-slides-template.key.pdf) 
 * TIME AGENDA / Schédule for the day https://github.com/RIPE-Atlas-Community/Green-Tech/blob/main/time-schedule-agenda-hackathon.png 
 * Useful information for Local Hubs organisers
   * "How to Organise a Hackathon" -> https://wiki.techinc.nl/File:How_to_organise_a_hackathon-January2018.pdf
