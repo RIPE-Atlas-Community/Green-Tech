@@ -65,7 +65,7 @@ Very short Notes from the webinar + links + screenshots [webinar-summary-landsca
 * File sharing -> this page :)
 * Collective Notes Taking = This Etherpad: https://etherpad.servus.at/p/GreenTechHackathonDecember2024-keep 
 
-# Prsentations Lineup 
+# Presentations Lineup 
 
 1. "Scraping GitHub to find SW projects" (Thomas et.al)
 2. Slow Non-Index Search Engine 
