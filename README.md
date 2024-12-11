@@ -69,13 +69,14 @@ Very short Notes from the webinar + links + screenshots [webinar-summary-landsca
 
 1. "Scraping GitHub to find SW projects" (Thomas et.al)
 2. Slow Non-Index Search Engine 
-3. Smart Building (University of Crete) 
-4. Toronto Supercapacitors (Brian, Dublin Local Hub) 
-5. Bad News / Good News (Valerie Aurora) 
-6. EcoDNS 
-7. Carbon-Aware Routing 
-8. Jumbogramatic 
-9. SlowTech Manifesto (Cabin 4) 
+3. Smart Building (University of Crete)
+4. #greenTechHACKATHON WIKIFICATION (zBlace) 
+5. Toronto Supercapacitors (Brian, Dublin Local Hub) 
+6. Bad News / Good News (Valerie Aurora) 
+7. EcoDNS 
+8. Carbon-Aware Routing 
+9. Jumbogramatic 
+10. SlowTech Manifesto (Cabin 4) 
 
 ## Your Links
 
