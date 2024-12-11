@@ -47,7 +47,8 @@ On 3rd December 2024, 9AM CET - 10:30 CET, there will be a Zoom event for all re
    + slides [Start at the end RIPE hackathon-2.pdf](https://github.com/user-attachments/files/17992375/Start.at.the.end.RIPE.hackathon-2.pdf)
 3. “>Juice Sucking Servers< , and how you can make them more efficient", by Axel Roest
     + slides [Juice Sucking Servers RipeNCC.pdf](https://github.com/user-attachments/files/17992330/Juice.Sucking.Servers.RipeNCC.pdf)
-4. "Green Tech Digital Innovation Competition accompanying research", by Dr. Stefanie Kunkel 
+4. "Green Tech Digital Innovation Competition accompanying research", by Dr. Stefanie Kunkel
+    + [Kunkel - Digital green tech.pdf](https://github.com/user-attachments/files/18095656/Kunkel.-.Digital.green.tech.pdf)
 5. "Logistics & Practical Information for the hackathon particpants", by Vesna Manojlovic
    + slides [Introduction To... Green Tech Hackathon 2024](https://wiki.techinc.nl/File:Intro-to-green-tech-hackathon-xxs.pdf).
 6. Open Discussion, Q&A
@@ -63,6 +64,19 @@ Very short Notes from the webinar + links + screenshots [webinar-summary-landsca
 * Video -> Zoom (links in the calendar invite)
 * File sharing -> this page :)
 * Collective Notes Taking = This Etherpad: https://etherpad.servus.at/p/GreenTechHackathonDecember2024-keep 
+
+# Projects 
+
+
+* "Scraping GitHub to find projects" (Thomas et.al)
+* Team Slow Non-Index Search Engine 
+* Smart Building (University of Crete) 
+* Supercapacitor Battery (Brian, Dublin Local Hub) 
+* Carbon-Aware Routing
+* Jumbogramatic 
+* EcoDNS
+* SlowTech Manifesto (Cabin 4) 
+* Doing Less (Marcus) 
 
 ## Your Links
 
