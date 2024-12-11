@@ -65,18 +65,17 @@ Very short Notes from the webinar + links + screenshots [webinar-summary-landsca
 * File sharing -> this page :)
 * Collective Notes Taking = This Etherpad: https://etherpad.servus.at/p/GreenTechHackathonDecember2024-keep 
 
-# Projects 
+# Prsentations Lineup 
 
-
-* "Scraping GitHub to find projects" (Thomas et.al)
-* Team Slow Non-Index Search Engine 
-* Smart Building (University of Crete) 
-* Supercapacitor Battery (Brian, Dublin Local Hub) 
-* Carbon-Aware Routing
-* Jumbogramatic 
-* EcoDNS
-* SlowTech Manifesto (Cabin 4) 
-* Doing Less (Marcus) 
+1. "Scraping GitHub to find SW projects" (Thomas et.al)
+2. Slow Non-Index Search Engine 
+3. Smart Building (University of Crete) 
+4 Supercapacitor Battery (Brian, Dublin Local Hub) 
+5. Bad News / Good News (Valerie Aurora) 
+6. EcoDNS 
+7. Carbon-Aware Routing 
+8. Jumbogramatic 
+9. SlowTech Manifesto (Cabin 4) 
 
 ## Your Links
 
