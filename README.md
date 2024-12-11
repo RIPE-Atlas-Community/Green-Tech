@@ -70,7 +70,7 @@ Very short Notes from the webinar + links + screenshots [webinar-summary-landsca
 1. "Scraping GitHub to find SW projects" (Thomas et.al)
 2. Slow Non-Index Search Engine 
 3. Smart Building (University of Crete) 
-4 Supercapacitor Battery (Brian, Dublin Local Hub) 
+4. Toronto Supercapacitors (Brian, Dublin Local Hub) 
 5. Bad News / Good News (Valerie Aurora) 
 6. EcoDNS 
 7. Carbon-Aware Routing 
