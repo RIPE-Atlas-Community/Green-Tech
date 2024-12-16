@@ -65,7 +65,7 @@ Very short Notes from the webinar + links + screenshots [webinar-summary-landsca
 * File sharing -> this page :)
 * Collective Notes Taking = This Etherpad: https://etherpad.servus.at/p/GreenTechHackathonDecember2024-keep 
 
-# Presentations Lineup 
+# Planned Presentations Lineup 
 
 1. "Scraping GitHub to find SW projects" (Thomas et.al)
 2. Slow Non-Index Search Engine 
@@ -81,4 +81,22 @@ Very short Notes from the webinar + links + screenshots [webinar-summary-landsca
 ## Your Links
 
 * https://github.com/w3c/sustainableweb-ig/tree/main
-* 
+* [xs-intro-to-green-tech-hackathon-2.pdf](https://github.com/user-attachments/files/18150950/xs-intro-to-green-tech-hackathon-2.pdf)
+
+* Recordings
+
+* Day one: https://ripe.zoom.us/rec/share/MD6D7tbkCc_fCc-wj_0PKyurOPGsTneMBifD1-v17Eg-qCHaNi74zQq0BasF9aP5.Doms_TADFdn-J9iN 
+Passcode: A7S!=NS^ 
+
+* Day two: https://ripe.zoom.us/rec/share/2g5i4ugEhrYiIhZTbvTsbOrvilp-VxWZH7UwFKIfXBvfVXpoeFNXIvv0GEnhtX0U.kYwb5YHK7d-O5TDY 
+Passcode: Ry7@h!Z? 
+
+Some LInkedIn posts
+
+ https://www.linkedin.com/posts/ripe-ncc_and-thats-a-wrap-for-the-green-tech-hackathon-activity-7272896623096033282-OEGT?utm_source=share&utm_medium=member_desktop
+
+ & re-post : https://www.linkedin.com/posts/hisham-ibrahim-3256172a_and-thats-a-wrap-for-the-green-tech-hackathon-activity-7272900338905423872-DfE_?utm_source=share&utm_medium=member_desktop 
+
+ Tim https://www.linkedin.com/posts/tim-cowlishaw-0204a6151_fantastic-couple-of-days-at-the-ripe-ncc-activity-7272939235328872449-YBir?utm_source=share&utm_medium=member_desktop 
+
+ Ramon https://www.linkedin.com/posts/ramon-bister_it-was-a-great-experience-to-have-taken-part-activity-7272970145629696001-B2Zk?utm_source=share&utm_medium=member_desktop 
