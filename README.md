@@ -2,6 +2,10 @@
 
 Repository for links to "Green Tech Hackathon 2024" projects
 
+# Projects Presentation Slides 
+
+
+
 ## Promotion
 
 * Initial article, announcing the hackathon + application form 2024-08-26 https://labs.ripe.net/author/becha/announcing-the-green-tech-hackathon/
@@ -9,6 +13,14 @@ Repository for links to "Green Tech Hackathon 2024" projects
 * Annoucement made by Vesna at RIPE89 (PDF slides, presentation) [slides](xs-new-pdf-announcing-Green%20Tech-hackathon.pdf)
 * [Sticker!](https://github.com/RIPE-Atlas-Community/Green-Tech/blob/main/green%20tech%20hackathon%20sticker%20print.png)
 * [Logo, white](https://github.com/RIPE-Atlas-Community/Green-Tech/blob/main/Design_Hackathon_2024_white.png)
+[_8_green-path-optimizer-README.pdf](https://github.com/user-attachments/files/18246400/_8_green-path-optimizer-README.pdf)
+[_5_Hardware_Hacks-green-tech-hackathon.pdf](https://github.com/user-attachments/files/18246399/_5_Hardware_Hacks-green-tech-hackathon.pdf)
+[_[_0_intro_and_closing-green-tech-hackathon.pdf](https://github.com/user-attachments/files/18246398/_0_intro_and_closing-green-tech-hackathon.pdf)
+11_GreenTechHackathon2024-JudgesDecisions.pdf](https://github.com/user-attachments/files/18246387/_11_GreenTechHackathon2024-JudgesDecisions.pdf)
+[_9_Big Green Packets with BGP.pdf](https://github.com/user-attachments/files/18246386/_9_Big.Green.Packets.with.BGP.pdf)
+[_6_Green Tech Hackathon Heraklion.pdf](https://github.com/user-attachments/files/18246385/_6_Green.Tech.Hackathon.Heraklion.pdf)
+[_1_Green Tech Hackathon_degrowth-backfire.pdf](https://github.com/user-attachments/files/18246384/_1_Green.Tech.Hackathon_degrowth-backfire.pdf)
+[_4_Green_Tech_hackathon-results-slides-asa.pdf](https://github.com/user-attachments/files/18246383/_4_Green_Tech_hackathon-results-slides-asa.pdf)
 * [Logo, green](https://github.com/RIPE-Atlas-Community/Green-Tech/blob/main/Design_Hackathon_202401.jpg)
 * "Update" article: "approaching the hackathon" 2024-11-14 https://labs.ripe.net/author/becha/approaching-the-green-tech-hackathon/ 
 
