@@ -2,9 +2,55 @@
 
 Repository for links to "Green Tech Hackathon 2024" projects
 
-# Projects Presentation Slides 
+# Green Tech Hackathon Documentation 
+
+## Projects Presentation Slides 
+
+* [_0_intro_and_closing-green-tech-hackathon.pdf](https://github.com/user-attachments/files/18246398/_0_intro_and_closing-green-tech-hackathon.pdf)
+* [_1_Green Tech Hackathon_degrowth-backfire.pdf](https://github.com/user-attachments/files/18246384/_1_Green.Tech.Hackathon_degrowth-backfire.pdf)
+* [_4_Green_Tech_hackathon-results-slides-asa.pdf](https://github.com/user-attachments/files/18246383/_4_Green_Tech_hackathon-results-slides-asa.pdf)
+* [_5_Hardware_Hacks-green-tech-hackathon.pdf](https://github.com/user-attachments/files/18246399/_5_Hardware_Hacks-green-tech-hackathon.pdf)
+* [_6_Green Tech Hackathon Heraklion.pdf](https://github.com/user-attachments/files/18246385/_6_Green.Tech.Hackathon.Heraklion.pdf)
+* [_8_green-path-optimizer-README.pdf](https://github.com/user-attachments/files/18246400/_8_green-path-optimizer-README.pdf)
+* [_9_Big Green Packets with BGP.pdf](https://github.com/user-attachments/files/18246386/_9_Big.Green.Packets.with.BGP.pdf)
+* [_10-hackathon_Follow the Green Bit Road.pdf](https://github.com/user-attachments/files/18246417/_10-hackathon_Follow.the.Green.Bit.Road.pdf)
+* [_11_GreenTechHackathon2024-JudgesDecisions.pdf](https://github.com/user-attachments/files/18246387/_11_GreenTechHackathon2024-JudgesDecisions.pdf)
+
+* Video Recordings
+  * Day one: https://ripe.zoom.us/rec/share/MD6D7tbkCc_fCc-wj_0PKyurOPGsTneMBifD1-v17Eg-qCHaNi74zQq0BasF9aP5.Doms_TADFdn-J9iN 
+Passcode: A7S!=NS^ 
+  * Day two: https://ripe.zoom.us/rec/share/2g5i4ugEhrYiIhZTbvTsbOrvilp-VxWZH7UwFKIfXBvfVXpoeFNXIvv0GEnhtX0U.kYwb5YHK7d-O5TDY 
+Passcode: Ry7@h!Z? 
 
 
+## Intro Webinar 
+
+On 3rd December 2024, 9AM CET - 10:30 CET, there <s>will be</s> was a Zoom event for all registered participants, & guests: for <b>Inspiration & Introduction</b>: 
+
+1. "Welcome to Our Hackathon! Gratitude & introduction to today's programme"  Vesna Manojlovic
+2. “Making digital sustainability sustainable”, by Hannah Smith
+   + slides [Start at the end RIPE hackathon-2.pdf](https://github.com/user-attachments/files/17992375/Start.at.the.end.RIPE.hackathon-2.pdf)
+3. “>Juice Sucking Servers< , and how you can make them more efficient", by Axel Roest
+    + slides [Juice Sucking Servers RipeNCC.pdf](https://github.com/user-attachments/files/17992330/Juice.Sucking.Servers.RipeNCC.pdf)
+4. "Green Tech Digital Innovation Competition accompanying research", by Dr. Stefanie Kunkel
+    + [Kunkel - Digital green tech.pdf](https://github.com/user-attachments/files/18095656/Kunkel.-.Digital.green.tech.pdf)
+5. "Logistics & Practical Information for the hackathon particpants", by Vesna Manojlovic
+   + slides [Introduction To... Green Tech Hackathon 2024](https://wiki.techinc.nl/File:Intro-to-green-tech-hackathon-xxs.pdf).
+6. Open Discussion, Q&A
+
+Link to recording:  (Passcode: dt&%4Rr6 ) https://ripe.zoom.us/rec/share/RVBTYnIo624qDeDf-y60BJkFfA9Zi6c7AEwUZhPG7EDz7meKvFO8cBGmbgFQ0Dmo.APCfWdJws-3cQsB_ 
+
+Very short Notes from the webinar + links + screenshots [webinar-summary-landscape-green-tech-hackathon-xs.pdf](https://github.com/user-attachments/files/18039757/webinar-summary-landscape-green-tech-hackathon-xs.pdf)
+
+
+
+# Communication
+
+* Chat -> https://matrix.to/#/#green-tech-hackathon-2024:matrix.org
+* Collective Notes Taking = This Etherpad: https://etherpad.servus.at/p/GreenTechHackathonDecember2024-keep 
+* Mailing List (general) ->
+* Announcement:  https://labs.ripe.net/author/becha/announcing-the-green-tech-hackathon/
+  
 
 ## Promotion
 
@@ -13,14 +59,6 @@ Repository for links to "Green Tech Hackathon 2024" projects
 * Annoucement made by Vesna at RIPE89 (PDF slides, presentation) [slides](xs-new-pdf-announcing-Green%20Tech-hackathon.pdf)
 * [Sticker!](https://github.com/RIPE-Atlas-Community/Green-Tech/blob/main/green%20tech%20hackathon%20sticker%20print.png)
 * [Logo, white](https://github.com/RIPE-Atlas-Community/Green-Tech/blob/main/Design_Hackathon_2024_white.png)
-[_8_green-path-optimizer-README.pdf](https://github.com/user-attachments/files/18246400/_8_green-path-optimizer-README.pdf)
-[_5_Hardware_Hacks-green-tech-hackathon.pdf](https://github.com/user-attachments/files/18246399/_5_Hardware_Hacks-green-tech-hackathon.pdf)
-[_[_0_intro_and_closing-green-tech-hackathon.pdf](https://github.com/user-attachments/files/18246398/_0_intro_and_closing-green-tech-hackathon.pdf)
-11_GreenTechHackathon2024-JudgesDecisions.pdf](https://github.com/user-attachments/files/18246387/_11_GreenTechHackathon2024-JudgesDecisions.pdf)
-[_9_Big Green Packets with BGP.pdf](https://github.com/user-attachments/files/18246386/_9_Big.Green.Packets.with.BGP.pdf)
-[_6_Green Tech Hackathon Heraklion.pdf](https://github.com/user-attachments/files/18246385/_6_Green.Tech.Hackathon.Heraklion.pdf)
-[_1_Green Tech Hackathon_degrowth-backfire.pdf](https://github.com/user-attachments/files/18246384/_1_Green.Tech.Hackathon_degrowth-backfire.pdf)
-[_4_Green_Tech_hackathon-results-slides-asa.pdf](https://github.com/user-attachments/files/18246383/_4_Green_Tech_hackathon-results-slides-asa.pdf)
 * [Logo, green](https://github.com/RIPE-Atlas-Community/Green-Tech/blob/main/Design_Hackathon_202401.jpg)
 * "Update" article: "approaching the hackathon" 2024-11-14 https://labs.ripe.net/author/becha/approaching-the-green-tech-hackathon/ 
 
@@ -50,65 +88,18 @@ Repository for links to "Green Tech Hackathon 2024" projects
  local contact: andy.byrne@heanet.ie
 ```
 
-## Intro Webinar 
 
-On 3rd December 2024, 9AM CET - 10:30 CET, there will be a Zoom event for all registered participants, & guests: for Inspiration & Introduction: 
+## Links
 
-1. "Welcome to Our Hackathon! Gratitude & introduction to today's programme"  Vesna Manojlovic
-2. “Making digital sustainability sustainable”, by Hannah Smith
-   + slides [Start at the end RIPE hackathon-2.pdf](https://github.com/user-attachments/files/17992375/Start.at.the.end.RIPE.hackathon-2.pdf)
-3. “>Juice Sucking Servers< , and how you can make them more efficient", by Axel Roest
-    + slides [Juice Sucking Servers RipeNCC.pdf](https://github.com/user-attachments/files/17992330/Juice.Sucking.Servers.RipeNCC.pdf)
-4. "Green Tech Digital Innovation Competition accompanying research", by Dr. Stefanie Kunkel
-    + [Kunkel - Digital green tech.pdf](https://github.com/user-attachments/files/18095656/Kunkel.-.Digital.green.tech.pdf)
-5. "Logistics & Practical Information for the hackathon particpants", by Vesna Manojlovic
-   + slides [Introduction To... Green Tech Hackathon 2024](https://wiki.techinc.nl/File:Intro-to-green-tech-hackathon-xxs.pdf).
-6. Open Discussion, Q&A
-
-Link to recording:  (Passcode: dt&%4Rr6 ) https://ripe.zoom.us/rec/share/RVBTYnIo624qDeDf-y60BJkFfA9Zi6c7AEwUZhPG7EDz7meKvFO8cBGmbgFQ0Dmo.APCfWdJws-3cQsB_ 
-
-Very short Notes from the webinar + links + screenshots [webinar-summary-landscape-green-tech-hackathon-xs.pdf](https://github.com/user-attachments/files/18039757/webinar-summary-landscape-green-tech-hackathon-xs.pdf)
-
-
-# Communication
-
-* Chat -> https://matrix.to/#/#green-tech-hackathon-2024:matrix.org
-* Video -> Zoom (links in the calendar invite)
-* File sharing -> this page :)
-* Collective Notes Taking = This Etherpad: https://etherpad.servus.at/p/GreenTechHackathonDecember2024-keep 
-
-# Planned Presentations Lineup 
-
-1. "Scraping GitHub to find SW projects" (Thomas et.al)
-2. Slow Non-Index Search Engine 
-3. Smart Building (University of Crete)
-4. #greenTechHACKATHON WIKIFICATION (zBlace) 
-5. Toronto Supercapacitors (Brian, Dublin Local Hub) 
-6. Bad News / Good News (Valerie Aurora) 
-7. EcoDNS 
-8. Carbon-Aware Routing 
-9. Jumbogramatic 
-10. SlowTech Manifesto (Cabin 4) 
-
-## Your Links
-
-* https://github.com/w3c/sustainableweb-ig/tree/main
 * [xs-intro-to-green-tech-hackathon-2.pdf](https://github.com/user-attachments/files/18150950/xs-intro-to-green-tech-hackathon-2.pdf)
 
-* Recordings
 
-* Day one: https://ripe.zoom.us/rec/share/MD6D7tbkCc_fCc-wj_0PKyurOPGsTneMBifD1-v17Eg-qCHaNi74zQq0BasF9aP5.Doms_TADFdn-J9iN 
-Passcode: A7S!=NS^ 
+* Some LInkedIn posts
 
-* Day two: https://ripe.zoom.us/rec/share/2g5i4ugEhrYiIhZTbvTsbOrvilp-VxWZH7UwFKIfXBvfVXpoeFNXIvv0GEnhtX0U.kYwb5YHK7d-O5TDY 
-Passcode: Ry7@h!Z? 
+** https://www.linkedin.com/posts/ripe-ncc_and-thats-a-wrap-for-the-green-tech-hackathon-activity-7272896623096033282-OEGT?utm_source=share&utm_medium=member_desktop
+** & re-post : https://www.linkedin.com/posts/hisham-ibrahim-3256172a_and-thats-a-wrap-for-the-green-tech-hackathon-activity-7272900338905423872-DfE_?utm_source=share&utm_medium=member_desktop 
 
-Some LInkedIn posts
+** Tim https://www.linkedin.com/posts/tim-cowlishaw-0204a6151_fantastic-couple-of-days-at-the-ripe-ncc-activity-7272939235328872449-YBir?utm_source=share&utm_medium=member_desktop 
 
- https://www.linkedin.com/posts/ripe-ncc_and-thats-a-wrap-for-the-green-tech-hackathon-activity-7272896623096033282-OEGT?utm_source=share&utm_medium=member_desktop
+** Ramon https://www.linkedin.com/posts/ramon-bister_it-was-a-great-experience-to-have-taken-part-activity-7272970145629696001-B2Zk?utm_source=share&utm_medium=member_desktop 
 
- & re-post : https://www.linkedin.com/posts/hisham-ibrahim-3256172a_and-thats-a-wrap-for-the-green-tech-hackathon-activity-7272900338905423872-DfE_?utm_source=share&utm_medium=member_desktop 
-
- Tim https://www.linkedin.com/posts/tim-cowlishaw-0204a6151_fantastic-couple-of-days-at-the-ripe-ncc-activity-7272939235328872449-YBir?utm_source=share&utm_medium=member_desktop 
-
- Ramon https://www.linkedin.com/posts/ramon-bister_it-was-a-great-experience-to-have-taken-part-activity-7272970145629696001-B2Zk?utm_source=share&utm_medium=member_desktop 
