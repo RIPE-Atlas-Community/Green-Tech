@@ -42,7 +42,53 @@ Link to recording:  (Passcode: dt&%4Rr6 ) https://ripe.zoom.us/rec/share/RVBTYnI
 
 Very short Notes from the webinar + links + screenshots [webinar-summary-landscape-green-tech-hackathon-xs.pdf](https://github.com/user-attachments/files/18039757/webinar-summary-landscape-green-tech-hackathon-xs.pdf)
 
+## Additional Links 
 
+1. DeGrowth Backfires 
+https://en.wikipedia.org/wiki/Jevons_paradox 
+
+2. Energy Combined 
+https://energycombined.com 
+https://oss4climate.pierrevf.consulting/ui/search 
+https://github.com/Pierre-VF/oss4climate 
+
+3. EcoDNS
+https://github.com/AFNIC/EcoDNS 
+
+4. ASA 
+gemini://asa.privacyforcats.org:1966/
+https://codeberg.org/wmd/ASA
+
+5. Batteryless Energy / Supercapacitor 
+https://github.com/bksutherland/GreenTechHackathon/blob/main/README.md
+
+“Energy Harvesting Information Systems and Design in the Energy Transition”
+https://utoronto.scholaris.ca/items/7c489f31-5f02-4e12-80b0-0c7bb61e2b97 
+
+6. Green Campus
+
+“The Green Vision of Technical University of Crete’s Campus”
+https://link.springer.com/chapter/10.1007/978-981-13-7260-5_3
+
+https://www.stepc.gr/wp-content/uploads/1649/33/3_Techn_Univ_Crete.pdf
+
+7. WIKIFICATION 
+
+https://etherpad.servus.at/p/GreenTechHackathonDecember2024-Wiki-keep 
+
+https://www.wikidata.org/wiki/Q131411635 
+
+8. Green Path Optimizer
+https://github.com/INSRapperswil/green-path-optimizer 
+
+“Towards Sustainable Networking: Unveiling Energy Efficiency Through Hop and Path Efficiency Indicators in Computer Networks, presented at IEEE Netsoft 2024.” 
+https://ieeexplore.ieee.org/document/10588907
+
+9. Big Green Packets
+https://magicalcodewit.ch/green-tech-hackathon-2024-slides/
+
+10. SlowTech Manifesto, 
+https://etherpad.servus.at/p/ripe-hackerbox 
 
 # Communication
 
