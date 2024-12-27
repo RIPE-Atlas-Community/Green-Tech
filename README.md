@@ -64,7 +64,7 @@ https://ieeexplore.ieee.org/document/10588907
 9. Big Green Packets
  
 * [_9_Big Green Packets with BGP.pdf](https://github.com/user-attachments/files/18246386/_9_Big.Green.Packets.with.BGP.pdf)
-
+* https://theenbyperor.github.io/draft-blahaj-idr-bgp-mtu/draft-blahaj-idr-bgp-mtu.html
 * https://magicalcodewit.ch/green-tech-hackathon-2024-slides/
 
 10. SlowTech Manifesto, 
